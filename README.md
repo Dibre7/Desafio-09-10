@@ -1,6 +1,7 @@
 # Desafio-09-10
 
-Fontes: Rubick e Oswald
+Um site para buscar viagens para realizar trilhas, onde tem a opção para ver local(viagem), passagens área, hospedagem e Guias das trilhas que são disponibilizadas, podendo também buscar pelas indicações que são oferecidos logo na tela inicial.
+A segunda página é um exemplo de ao clicar nas opções de recomendações.
 
 ![alt text](image.png)
 
